@@ -1,6 +1,8 @@
 # Customer Analytics: RFM Segmentation & Retention SQL & Power BI Project
  
 ## Introduction
+
+![Overview page](PowerBI/rfm-1.jpg)
  
 This project uses SQL to explore a customer/orders dataset from an e-commerce business, combining RFM (Recency, Frequency, Monetary) segmentation with churn, acquisition, revenue, and product-level analysis.
  
