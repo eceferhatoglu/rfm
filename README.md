@@ -1,4 +1,4 @@
-# Customer Analytics: RFM Segmentation & Retention SQL Project
+# Customer Analytics: RFM Segmentation & Retention SQL & Power BI Project
  
 ## Introduction
  
