@@ -1,6 +1,6 @@
 # Power BI Dashboard Notes
  
-This document covers the Power BI dashboard built on top of the SQL analysis described in the main [README](./README.md). It's organized page by page, matching the dashboard's own navigation, with the DAX measures / Power Query steps / SQL queries used for each.
+This document covers the Power BI dashboard built on top of the SQL analysis described in the main README. It's organized page by page, matching the dashboard's own navigation, with the DAX measures / Power Query steps / SQL queries used for each.
  
 ## Page: Overview
  
